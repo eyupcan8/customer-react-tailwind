@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/customer.iml" filepath="$PROJECT_DIR$/.idea/customer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/customer-react-tailwind.iml" filepath="$PROJECT_DIR$/.idea/customer-react-tailwind.iml" />
     </modules>
   </component>
 </project>
